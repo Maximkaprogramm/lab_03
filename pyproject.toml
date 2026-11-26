@@ -1,0 +1,5 @@
+[project]
+name = "catalog from classrooms"
+version = "1.0.0"
+description = "Каталог учебных аудиторий"
+requires-python = ">=3.14"
