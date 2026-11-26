@@ -17,11 +17,7 @@
 ```bash
 python3 demo.py
 
-
 ## Структура проекта
-
-## Структура проекта
-
 ```text
 lab_03/
 |─ models.py
