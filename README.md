@@ -18,7 +18,6 @@
 python3 demo.py
 
 ## Структура проекта
-```text
 lab_03/
 |─ models.py
 |─ catalog.py
